@@ -26,4 +26,4 @@ It's a responsive design with hambuggers menu when opened on a smaller view port
 
 The GitHub logo standing alone in the home-page will take viewers to my GitHub profile.
 
-You can check this project on Netlify by clicking [MyGitHubAPI] ()
+You can check this project on Vercel by clicking [MyGitHubAPI] (https://mygithubrepo-flax.vercel.app/)
