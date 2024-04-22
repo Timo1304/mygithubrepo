@@ -1,0 +1,21 @@
+.wrapper {
+  border: 1px solid #dcc;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: rgb(226, 219, 219);
+}
+
+.error-container {
+  margin-block-start: 100px;
+  border-radius: 10px;
+  background-color: #dcc;
+  margin-block-end: 70px;
+}
+
+.error-btn {
+  margin-block-start: 70px;
+}
