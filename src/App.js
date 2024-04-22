@@ -10,7 +10,7 @@ import Navigation from "./components/Navigation";
 import "../src/styles/navigation.css";
 import "./App.css";  
 import { SearchBar } from "./components/search-filter";
-import { SearchResultsList } from "./components/searchfilterLists"
+// import { searchfilterLists } from "./components/searchfilterLists"
 
 
 const App = () => {
@@ -24,7 +24,7 @@ const App = () => {
       <Navigation />
       <div className="search-bar-container">
         <SearchBar setResults={setResults} />
-        <SearchResultsList/>
+        <searchfilterLists/>
       </div>
         <Routes className="main-container">
           <Route path="/" element={<Home />} />
